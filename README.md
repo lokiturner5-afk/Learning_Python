@@ -31,5 +31,5 @@
 ##### __language used__ (python)
 
 ### `Sources`
-[W3resource](https://w3resources/python "Go to w3resource")
+[W3resource](https://w3resources/python "Go to w3resource") <br>
 [Automate the boring stuff with python](https://automatetheboringstuff.com/ "Online book")
