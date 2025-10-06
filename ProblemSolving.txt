@@ -1,0 +1,17 @@
+Problem Solving Skills
+
+Creating an algorithm
+
+1. Identify the kind of tea (black tea)
+2. How do we want it  (milky and sugar)
+3. if hot water then use, else prepare one
+4. Pour it into a cup or glass
+5. Put the tea-bag into the cup of hot water
+6. Wait for a while (1 min or 2mins) for the content of the tea-bag to dissolve into the water
+7. Take the tea-bag out
+8. Add desireable amount of sugar stir then add milk
+9. Ready!
+
+
+Create a new algorithm based on a simple daily routine of yours follow the (KISS) standard 
+
