@@ -1,6 +1,6 @@
 ## Problem Solvin Skills
 
-### 🧮 Introduce the Problem-Solving Process
+### 🧮 Introduction to Problem-Solving
 
 `Example Framework (Polya’s 4-Step Model Adapted for Programming)`
 
