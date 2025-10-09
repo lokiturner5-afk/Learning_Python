@@ -33,3 +33,7 @@
 ### `Sources`
 [W3resource](https://www.w3resource.com/python-exercises/ "Go to w3resource") <br>
 [Automate the boring stuff with python](https://automatetheboringstuff.com/ "Online book")
+
+### Activities
+`Day 1:` Algorithms
+`Day 2:` Strings

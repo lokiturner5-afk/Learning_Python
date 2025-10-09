@@ -22,7 +22,7 @@ def make_tea(tea_bag:str, water:str, milk:bool, sugar:bool):
     while transition_state:
         print(f"state {transition_state.pop()}")
     print("Taking the bag out")
-    print(f"Adding  of milk to tea" if milk == True else "No milk then")
+    print(f"Adding  of milk to tea" if milk == True else "No milk then") 
     print(f"Adding  sugar to tea" if sugar == True else "No sugar then")
         
-make_tea('black tea', 'hot', False, True)
+make_tea('black tea', 'hot', 2, 4)

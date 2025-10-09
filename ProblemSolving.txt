@@ -13,5 +13,9 @@ Creating an algorithm
 9. Ready!
 
 
-Create a new algorithm based on a simple daily routine of yours follow the (KISS) standard 
+Create a new algorithm based on a simple daily routine of yours follow the (KISS) standard
 
+Write a program to find the largest of three numbers.
+
+nums = [30, 10, 50]
+[], (), {}
